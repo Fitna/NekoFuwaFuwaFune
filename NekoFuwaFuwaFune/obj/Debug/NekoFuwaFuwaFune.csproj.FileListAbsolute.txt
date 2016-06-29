@@ -1,0 +1,9 @@
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\bin\Debug\NekoFuwaFuwaFune.exe.config
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.csprojResolveAssemblyReference.cache
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.Properties.Resources.resources
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.csproj.GenerateResource.Cache
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\bin\Debug\NekoFuwaFuwaFune.exe
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\bin\Debug\NekoFuwaFuwaFune.pdb
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.exe
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.pdb
+C:\Projects\CSharp\NekoFuwaFuwaFune\NekoFuwaFuwaFune\obj\Debug\NekoFuwaFuwaFune.MainForm.resources
